@@ -1,0 +1,24 @@
+BASIC HTML TAGS
+1.html tag
+2.head tag
+3.body tag 
+4.title tag
+5.div tag
+6.label tag
+7.paragraph tag
+
+linking a external css file
+linking a external javascript file
+CSS SELECTOR
+1.Universal Selector
+2.element selector
+3.class Selector
+4.hover selector
+5.id selector
+Javascript 
+1.document.getElementById for selector a particular id
+2.console.log for printing purpose
+3.function to 
+
+
+
